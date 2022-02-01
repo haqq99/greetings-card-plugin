@@ -1,2 +1,2 @@
 # greetings-card-plugin
-## A wordpress plugin to send greetings to your website visitors. This will improve your User Experience and reduce Bounce rate
+## A wordpress plugin built to display greetings to your website visitors. This will improve your User Experience and reduce Bounce rate. This project was built with HTML, CSS, and PHP on WordPress.
